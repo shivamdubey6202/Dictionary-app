@@ -9,7 +9,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: aqua;
+    background-color: rgb(111, 255, 0);
 }
 .box{
     background-color: aliceblue;
